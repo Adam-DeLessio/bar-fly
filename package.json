@@ -8,6 +8,8 @@
     "eject": "expo eject"
   },
   "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
     "expo": "~36.0.0",
     "node": "^13.9.0",
     "react": "~16.9.0",
